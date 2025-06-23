@@ -9,22 +9,22 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 
 const MESSAGE = process.env.MESSAGE ||  `
-🔥 𝐊ąìʂҽղ-𝐌𝐃 | 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 ✅
+🚨 SKIDDBMX | 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 ✅
 🔥 Your Bot is Now Alive, Royal & Ready to Rock! 🔥
 ━━━━━━━━━━━━━━━━━━━━━━
 🟢 Session qr code Successfully ✅
 🔗 Connect for Instant Support & Royal Help:
 📌 WhatsApp Group:
-https://chat.whatsapp.com/Ja7bWhgrFkc3V67yBjchM2
+
 ━━━━━━━━━━━━━━━━━━━━━━
 📦 GitHub Repo — Star It For Power Boost!
-✴️ 𝐊ąìʂҽղ-𝐌𝐃 GitHub:
+✴️ FELICIAN GitHub:
 🪂
-github.com/sumon9836/KAISEN-MD.git
+https://github.com/fel255/IT-TECH
 ━━━━━━━━━━━━━━━━━━━━━━
 🚀 Deploy Your Royal Bot Now
-👑 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐁𝐲: 𝐋𝐨𝐯𝐞𝐥𝐲-𝐁𝐨𝐲.𝐱.𝐒𝐮𝐦𝐨𝐧
-🧠 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲: 𝐊ąìʂҽղ 𝐈𝐧𝐭𝐞𝐥 𝐂𝐨𝐫𝐞™
+👑 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐁𝐲: SKIDDYBMX 
+🧠 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲: FELICIAN 
 ✨ Deploy & Rule Like a True Legend
 ━━━━━━━━━━━━━━━━━━━━━━
 📝 Royal Quote of the Bot:
@@ -32,7 +32,7 @@ github.com/sumon9836/KAISEN-MD.git
 > “𝐁𝐨𝐭 𝐁𝐲 𝐍𝐚𝐦𝐞, 𝐋𝐞𝐠𝐞𝐧𝐝 𝐁𝐲 𝐅𝐚𝐦𝐞”
 — Royalty Runs in the Code
 ━━━━━━━━━━━━━━━━━━━━━━
-🦾 𝐊ąìʂҽղ_𝐌𝐃 || 𝐒𝐚𝐦𝐢𝐧_𝐒𝐮𝐦𝐨𝐧 || 𝐑𝐨𝐲𝐚𝐥𝐁𝐨𝐭
+🦾 SKIDDBMX || Felician_skiddy || 𝐑𝐨𝐲𝐚𝐥𝐁𝐨𝐭
 `;
 
 if (fs.existsSync('./auth_info_baileys')) {
