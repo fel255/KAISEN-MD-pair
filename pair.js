@@ -14,7 +14,7 @@ const MESSAGE = process.env.MESSAGE || `
 ━━━━━━━━━━━━━━━━━━━━━━
 📦 GitHub Repo — Star It For Power Boost!
 ✴️ tech GitHub:
-🪂https://github.com/fel255/IT-TECH
+🪂https://github.com/fel255/felic
 ━━━━━━━━━━━━━━━━━━━━━━
 🚀 Deploy Your Royal Bot Now
 👑 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐁𝐲: SKIDDBMX
